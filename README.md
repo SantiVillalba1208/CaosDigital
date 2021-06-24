@@ -1,0 +1,2 @@
+# CaosDigital
+Bienvenido a la Pagina Oficial de Caos Digital. Esta pagina esta inspirada en el servidor de Discord el cual se llama &lt;strong>Caos Digital&lt;/strong> en este hay distintos &lt;strong>Canales&lt;/strong> en los cuales podras observar &lt;strong> General, Media, No-Mic, Reglas, Cumpleaños, Preguntas, Comandos, Eventos y 3 Canales de Minijuegos (Mudae, Pokemón, Ahorcado)&lt;/strong>. Este proyecto fue creado en 2018, en ese mismo año la idea fue olvidada por su Creador hasta que en 2021 ese proyecto aparecio nuevamente.
